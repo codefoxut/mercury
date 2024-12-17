@@ -1,2 +1,2 @@
-# mercury
-Frontend projects
+# Mercury
+Backend projects
