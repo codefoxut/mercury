@@ -103,7 +103,7 @@ dist
 # TernJS port file
 .tern-port
 # SQLite database files
-db.sqlite3
+*.sqlite3
 
 
 **__pycache__/
